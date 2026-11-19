@@ -1,4 +1,4 @@
-const CACHE = 'kason-portfolio-v1';
+const CACHE = 'kason-portfolio-v2';
 const ASSETS = [
   './',
   './index.html',
